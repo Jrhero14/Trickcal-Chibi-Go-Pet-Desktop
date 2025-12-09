@@ -31,8 +31,8 @@
 
 * **🧸 Fisika & Interaksi:** Seret, lempar, dan jatuhkan karakter sesuka hati. Mereka akan memantul dan bereaksi!
 * **🏀 Mainan Interaktif:** Sertakan **Pumpkin Ball** untuk mereka mainkan. Mereka bisa menendang dan mengejar bola tersebut.
-* **⚔️ Steal Skill (Rebutan):** Jika ada lebih dari satu karakter, mereka bisa saling berebut mainan (Chaos mode: ON!).
-* **🔊 Suara & Voice Line:** Dilengkapi dengan efek suara lucu, tangisan, dan *footstep* yang imersif.
+* **⚔️ Steal Skill (Rebutan):** Jika ada lebih dari satu karakter, mereka bisa saling berebut mainan.
+* **🔊 Suara & Voice Line:** Dilengkapi dengan efek suara lucu, dan tantrum.
 * **⚙️ Kustomisasi Penuh:** Atur jumlah karakter, ukuran (scale), dan suara melalui menu Setup yang mudah digunakan.
 * **🍲 The Soup "Nightmare":** Mode rahasia untuk membuat Speaki panik (lihat bagian Interaksi).
 
