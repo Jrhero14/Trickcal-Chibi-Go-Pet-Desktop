@@ -23,6 +23,10 @@
 
 ## ✨ About Project
 
+
+https://github.com/user-attachments/assets/561a605b-592a-45ab-865f-7fd2a4ffa421
+
+
 **Trickcal Chibi Go Desktop** is a Python-based *desktop pet* application that brings characters from the *Trickcal Chibi Go* game directly to life on your computer screen.
 
 ---
