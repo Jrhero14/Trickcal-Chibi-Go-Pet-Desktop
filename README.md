@@ -4,109 +4,109 @@
   
   # Trickcal Chibi Go! Desktop Pet
   
-  **Aplikasi Desktop penurun IQ, Cuayo!! CUAYOOOO!!!**
+  **Pet Desktop Application, Cuayoo! CUAYOOO!!!**
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
   ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
 
   <p>
-    <a href="#-fitur-utama">Fitur</a> •
-    <a href="#-karakter">Karakter</a> •
-    <a href="#-cara-install">Install</a> •
-    <a href="#-interaksi--kontrol">Interaksi</a> •
-    <a href="#-kredit">Kredit</a>
+    <a href="#-key-features">Features</a> •
+    <a href="#-characters">Characters</a> •
+    <a href="#-installation">Install</a> •
+    <a href="#-interaction--controls">Interaction</a> •
+    <a href="#-credits">Credits</a>
   </p>
 </div>
 
 ---
 
-## ✨ Tentang Project
+## ✨ About Project
 
-**Trickcal Chibi Go Desktop** adalah aplikasi *desktop pet* berbasis Python yang menghidupkan karakter dari game *Trickcal Chibi Go* langsung di layar komputermu.
-
----
-
-## 🌟 Fitur Utama
-
-* **🧸 Fisika & Interaksi:** Seret, lempar, dan jatuhkan karakter sesuka hati. Mereka akan memantul dan bereaksi!
-* **🏀 Mainan Interaktif:** Sertakan **Pumpkin Ball** untuk mereka mainkan. Mereka bisa menendang dan mengejar bola tersebut.
-* **⚔️ Steal Skill (Rebutan):** Jika ada lebih dari satu karakter, mereka bisa saling berebut mainan (Chaos mode: ON!).
-* **🔊 Suara & Voice Line:** Dilengkapi dengan efek suara lucu, tangisan, dan *footstep* yang imersif.
-* **⚙️ Kustomisasi Penuh:** Atur jumlah karakter, ukuran (scale), dan suara melalui menu Setup yang mudah digunakan.
-* **🍲 The Soup "Nightmare":** Mode rahasia untuk membuat Speaki panik (lihat bagian Interaksi).
+**Trickcal Chibi Go Desktop** is a Python-based *desktop pet* application that brings characters from the *Trickcal Chibi Go* game directly to life on your computer screen.
 
 ---
 
-## 🎭 Karakter
+## 🌟 Key Features
 
-| Karakter | Kepribadian & Perilaku                                                                                                                                                                                                                     |
+* **🧸 Physics & Interaction:** Drag, throw, and drop the characters as you please. They will bounce and react!
+* **🏀 Interactive Toy:** Include a **Pumpkin Ball** for them to play with. They can kick and chase the ball.
+* **⚔️ Steal Skill (Snatching):** If there is more than one character, they can fight over the toy (Chaos mode: ON!).
+* **🔊 Sounds & Voice Lines:** Equipped with cute sound effects, crying sounds, and immersive *footsteps*.
+* **⚙️ Full Customization:** Adjust character count, size (scale), and sound via an easy-to-use Setup menu.
+* **🍲 The Soup "Nightmare":** A secret mode to make Speaki panic (see Interaction section).
+
+---
+
+## 🎭 Characters
+
+| Character | Personality & Behavior                                                                                                                                                                                                                     |
 | :---: |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="src/characters/erpin/Erpin-Cherrful.png" width="80"/> | **Erpin (The Fairy Queen)**<br>• Suka berjalan santai.<br>• **Hobi:** Tidur tiba-tiba di layar (Idle animation).<br>• Bisa "dipunch" dan bakal tantrum.<br>• Suka mengobrol dengan sesama Erpin.                                           |
-| <img src="src/characters/speaki/Speaki-Cherrful.png" width="80"/> | **Speaki (The Priestess)**<br>• Sangat energik dan suka melompat.<br>• Suka mencuri/memegang bola labu.<br>• **Kelemahan:** SANGAT TAKUT dengan Sup Labu (Pumpkin Soup).<br>• Akan menangis dan "tantrum" jika dijatuhkan dari ketinggian. |
+| <img src="src/characters/erpin/Erpin-Cherrful.png" width="80"/> | **Erpin (The Fairy Queen)**<br>• Likes to walk casually.<br>• **Hobby:** Suddenly falling asleep on screen (Idle animation).<br>• Can be "punched" and will throw a tantrum.<br>• Likes chatting with other Erpins.                                           |
+| <img src="src/characters/speaki/Speaki-Cherrful.png" width="80"/> | **Speaki (The Priestess)**<br>• Very energetic and loves to jump.<br>• Likes stealing/holding the pumpkin ball.<br>• **Weakness:** VERY AFRAID of Pumpkin Soup.<br>• Will cry and throw a "tantrum" if dropped from a height. |
 
 ---
 
-## 📥 Cara Install
+## 📥 Installation
 
-Pastikan kamu sudah menginstall **Python 3.x**.
+Make sure you have installed **Python 3.x**.
 
-1.  **Clone Repository ini:**
+1.  **Clone this Repository:**
     ```bash
     git clone [https://github.com/JrHero14/Trickcal-Chibi-Go-Pet-Desktop.git](https://github.com/JrHero14/Trickcal-Chibi-Go-Pet-Desktop.git)
     cd Trickcal-Chibi-Go-Pet-Desktop
     ```
 
 2.  **Install Dependencies:**
-    Disarankan menggunakan virtual environment (`venv`).
+    Using a virtual environment (`venv`) is recommended.
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Jalankan Aplikasi:**
+3.  **Run the Application:**
     ```bash
     python src/main.py
     ```
 
 ---
 
-## 🎮 Interaksi & Kontrol
+## 🎮 Interaction & Controls
 
-### 🖱️ Kontrol Dasar
-* **Klik Kiri & Tahan:** Mengangkat (Drag) karakter atau mainan.
-* **Lepas Klik:** Melempar karakter (hati-hati, mereka bisa memantul!).
-* **Klik Kanan (pada Karakter/Mainan):** Membuka menu konteks untuk keluar (Exit).
+### 🖱️ Basic Controls
+* **Left Click & Hold:** Pick up (Drag) the character or toy.
+* **Release Click:** Throw the character (be careful, they might bounce!).
+* **Right Click (on Character/Toy):** Open the context menu to Exit.
 
-### 🎃 Interaksi Spesial: The Pumpkin Soup
-Ini adalah fitur unik untuk **Speaki**:
-1.  Pastikan opsi **Pumpkin Ball** aktif di menu awal.
-2.  **Klik Kanan** pada Bola Labu (Pumpkin) yang ada di layar.
-3.  Pilih **"Change to Soup"**.
-4.  😱 **Perhatikan Reaksi Speaki:** Speaki akan lari ketakutan, melompat panik, dan berusaha menjauh sejauh mungkin dari mangkuk sup itu!
+### 🎃 Special Interaction: The Pumpkin Soup
+This is a unique feature for **Speaki**:
+1.  Make sure the **Pumpkin Ball** option is active in the startup menu.
+2.  **Right Click** on the Pumpkin Ball on the screen.
+3.  Select **"Change to Soup"**.
+4.  😱 **Watch Speaki's Reaction:** Speaki will run in fear, jump frantically, and try to get as far away as possible from that bowl of soup!
 
-### 💤 Interaksi Erpin
-* Jika kamu membiarkan Erpin terlalu lama, dia mungkin akan **tertidur** (Zzz...).
-* Jika ada 2 Erpin, mereka kadang akan saling mendekat untuk **mengobrol**.
-
----
-
-## 🛠️ Konfigurasi (Setup)
-
-Saat pertama kali dijalankan (atau jika mode silent tidak aktif), window pengaturan akan muncul:
-
-* **Jumlah:** Tentukan berapa banyak Erpin atau Speaki yang ingin dimunculkan.
-* **Pumpkin Ball:** Munculkan mainan bola.
-* **Steal Skill:** Izinkan mereka saling rebutan bola.
-* **Size Scale:** Atur ukuran pet (0.5x sampai 1.2x).
-* **Run on Startup:** Jalankan otomatis saat PC nyala.
+### 💤 Erpin Interaction
+* If you leave Erpin alone for too long, she might fall **asleep** (Zzz...).
+* If there are 2 Erpins, they will sometimes approach each other to **chat**.
 
 ---
 
-## 📜 Kredit
+## 🛠️ Configuration (Setup)
+
+When run for the first time (or if silent mode is inactive), the settings window will appear:
+
+* **Quantity:** Determine how many Erpins or Speakis you want to spawn.
+* **Pumpkin Ball:** Spawn the ball toy.
+* **Steal Skill:** Allow them to fight over the ball.
+* **Size Scale:** Adjust the pet size (0.5x to 1.2x).
+* **Run on Startup:** Automatically run when the PC turns on.
+
+---
+
+## 📜 Credits
 
 * **Developer:** [Jeremi Herodian](https://github.com/JrHero14)
 * **Library:** PyQt5, Pillow
 
-> *Project ini dibuat untuk tujuan pembelajaran dan hobi (Fan-made). Semua aset karakter adalah hak cipta dari pemilik aslinya.*
+> *This project was created for learning and hobby purposes (Fan-made). All character assets are the copyright of their original owners.*
 
 ---
